@@ -4,6 +4,7 @@
 <p>
     <h1 style="font-size: 16px;"></h1>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://dsc.gg/uptimuz) Discord Server
 
 ### 👋 **Hey, I'm __uptimuz__**
