@@ -1,9 +1,8 @@
 <p align="center">
     <img width="200" height="200" src="https://cdn.discordapp.com/attachments/1142789930431561808/1145369971908689980/Untitled61_20230827105049.png" alt=Icon">
 </p>
-<p>
-    <h1 style="font-size: 45px;"></h1>
-</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315dgbwyxkswhukx4dasqh3yiw6i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=57a0ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connections
 [![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://dsc.gg/uptimuz)
