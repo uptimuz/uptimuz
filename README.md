@@ -5,10 +5,12 @@
 **:wave:  Hey, I'm __uptimuz__**
 -    15 year old
 -    Male
+
 :earth_americas: **Ethnicity**
 -   Canadian
 -   Turkish
 -   Moroccan
+
 :snake:  **Languages**
 -    Python
 -    Go (learning)
