@@ -5,7 +5,8 @@
     <h1 style="font-size: 45px;"></h1>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://dsc.gg/uptimuz) Discord Server
+### Connections
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://dsc.gg/uptimuz)
 
 ### 👋 **Hey, I'm __uptimuz__**
 -    15 year old
