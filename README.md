@@ -2,7 +2,7 @@
     <img width="200" height="200" src="https://cdn.discordapp.com/attachments/1142789930431561808/1145369971908689980/Untitled61_20230827105049.png" alt=Icon">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://dsc.gg/uptimuz)
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://dsc.gg/uptimuz) Discord Server
 
 ### 👋 **Hey, I'm __uptimuz__**
 -    15 year old
